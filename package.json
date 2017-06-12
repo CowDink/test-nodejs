@@ -1,11 +1,26 @@
 {
-  "name": "test-nodejs",
-  "version": "1.0.0",
-  "description": "",
+  "name": "belajar-nodejs",
+  "version": "1.0.1",
+  "description": "fixing some bux",
   "main": "myfirst.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "CowDink",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CowDink/test-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "belajar",
+    "git"
+  ],
+  "bugs": {
+    "url": "https://github.com/CowDink/test-nodejs/issues"
+  },
+  "homepage": "https://github.com/CowDink/test-nodejs#readme"
 }
